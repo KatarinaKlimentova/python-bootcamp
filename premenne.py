@@ -11,6 +11,11 @@ vek = 27
 priemer = 1.5
 student = True
 
+
+print("Meno: " )
+
+
+
 print("Meno: " + meno)
 print("Vek: " + str(vek))
 print("Priemer: " + str(priemer))
